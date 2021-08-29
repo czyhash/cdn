@@ -16,7 +16,7 @@
 
 .gitcalendar-graph text.wday,
 .gitcalendar-graph text.month {
-    font-size: 10px;
+    font-size: 15px;
     fill: #aaa;
 }
 
